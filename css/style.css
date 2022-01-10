@@ -1,0 +1,57 @@
+*{
+    background-color: lightslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    display: block;
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+p{
+    width: 1000px;
+    margin: auto;
+}
+
+h1,
+h2,
+h3{
+    color: darkslategrey;
+    font-size: 100px;
+    width: 1000px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: 'Brush Script MT', cursive;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 35px;
+}
+
+ul li,
+ol li,
+a,
+p{
+    color: whitesmoke;
+    width: 1000px;
+    margin: auto;
+    font-size: 23px;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    color: yellowgreen;
+    font-size: 24px;
+}
+.list{
+    font-size: 100px;
+    text-align: center;
+}
